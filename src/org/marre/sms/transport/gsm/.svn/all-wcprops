@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/transport/gsm
+END
+GsmComm.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/transport/gsm/GsmComm.java
+END
+GsmTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/transport/gsm/GsmTransport.java
+END
+GsmException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/transport/gsm/GsmException.java
+END
+GsmEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/transport/gsm/GsmEncoder.java
+END
+SerialComm.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/transport/gsm/SerialComm.java
+END

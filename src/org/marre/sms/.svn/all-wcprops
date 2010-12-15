@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/smsj/!svn/ver/425/trunk/smsj/src/main/java/org/marre/sms
+END
+SmsConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/SmsConstants.java
+END
+SmsConcatMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/SmsConcatMessage.java
+END
+SmsPortAddressedTextMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/SmsPortAddressedTextMessage.java
+END
+SmsUdhUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/SmsUdhUtil.java
+END
+SmsMsgWaitingMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/SmsMsgWaitingMessage.java
+END
+GsmOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/GsmOperator.java
+END
+SmsMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/SmsMessage.java
+END
+SmsAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/SmsAddress.java
+END
+SmsPduUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/SmsPduUtil.java
+END
+SmsPdu.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/SmsPdu.java
+END
+SmsTextMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/SmsTextMessage.java
+END
+SmsUdhElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/SmsUdhElement.java
+END
+SmsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/SmsException.java
+END
+SmsPortAddressedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/SmsPortAddressedMessage.java
+END
+SmsUserData.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/SmsUserData.java
+END
+SmsDcs.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/SmsDcs.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/transport/gsm/commands
+END
+PduSendMessageReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/transport/gsm/commands/PduSendMessageReq.java
+END
+MessageFormatSetReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/transport/gsm/commands/MessageFormatSetReq.java
+END
+PingReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/transport/gsm/commands/PingReq.java
+END
+PduSendMessageRsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/transport/gsm/commands/PduSendMessageRsp.java
+END

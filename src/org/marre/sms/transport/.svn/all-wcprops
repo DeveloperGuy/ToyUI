@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/transport
+END
+SmsTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/transport/SmsTransport.java
+END
+DeliveryReportListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/transport/DeliveryReportListener.java
+END
+SmsTransportManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/transport/SmsTransportManager.java
+END
+IncomingSmsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/transport/IncomingSmsListener.java
+END
+SmsAsyncTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/smsj/!svn/ver/417/trunk/smsj/src/main/java/org/marre/sms/transport/SmsAsyncTransport.java
+END
